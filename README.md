@@ -18,3 +18,7 @@ pnpm build
 ```
 
 The game engine lives in `src/engine/`; React UI components are in `src/components/`.
+
+## License
+
+Original project content is available under the [PolyForm Noncommercial License 1.0.0](LICENSE). For uses outside the license permissions, contact the rights holder for separate permission. Third-party components and assets remain under their respective licenses.
